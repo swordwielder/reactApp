@@ -117,7 +117,14 @@ const database = {
       largeImageUrl: ["/images/CoinbaseLarge.jpg"],
       url: 'https://github.com/swordwielder/pythonwebscrapper'
     },
-
+    {
+      id:2,
+      title: "Discord Bot",
+      subtitle: "A Discord bot that Provides Stock, Weather other Data querying as well as other features such as Image Recognition, Music Player, and Joke Telling",
+      imageUrl: "/images/discordBot.png",
+      largeImageUrl: ["/images/discordBot.png"],
+      url: 'https://github.com/swordwielder/discordbot'
+    }
   ],
   experience: {
     workingExperience: [
